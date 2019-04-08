@@ -15,6 +15,7 @@ public class ex_8 {
 		double avg = 0.0;
 		
 		//작성위치
+		//작성위치
 		for (int i = 0; i < array.length; i++) {
 			for (int j = 0; j < array[i].length; j ++) {
 				sum += array[i][j];
