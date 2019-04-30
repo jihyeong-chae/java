@@ -10,6 +10,7 @@ public class MemberServiceExample {
 		} else {
 			System.out.println("id 또는 password가 옳바르지 않습니다.");
 		}
+		
 	}
 
 }

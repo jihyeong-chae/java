@@ -10,4 +10,5 @@ public class MemberService {
 	{
 		return false;
 	}
+	
 }
